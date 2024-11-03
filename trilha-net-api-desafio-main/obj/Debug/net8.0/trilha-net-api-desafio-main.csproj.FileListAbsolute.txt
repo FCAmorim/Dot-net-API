@@ -1,0 +1,4 @@
+C:\Users\franc\OneDrive\Documentos\trilha-net-api-desafio-main\trilha-net-api-desafio-main\obj\Debug\net8.0\trilha-net-api-desafio-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\trilha-net-api-desafio-main\trilha-net-api-desafio-main\obj\Debug\net8.0\trilha-net-api-desafio-main.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\trilha-net-api-desafio-main\trilha-net-api-desafio-main\obj\Debug\net8.0\trilha-net-api-desafio-main.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\trilha-net-api-desafio-main\trilha-net-api-desafio-main\obj\Debug\net8.0\trilha-net-api-desafio-main.csproj.CoreCompileInputs.cache
